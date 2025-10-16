@@ -20,11 +20,6 @@ A special focus was placed on **sensitivity** — the most critical metric in me
 - **Matplotlib, SciPy**  
 - **Statistical Testing:** Friedman test, Wilcoxon-Holm correction  
 
-## Key Findings  
-- **Best Overall Model:** Logistic Regression – balanced accuracy and interpretability for clinical settings.  
-- **Highest Sensitivity:** Neural Network – achieved 0.72 sensitivity with SMOTE applied.  
-- **Effect of Balancing:** SMOTE improved the detection of minority (high-risk) cases while slightly reducing specificity.  
-- **Statistical Validation:** Significant differences confirmed between models (p < 0.05).  
 
 ## Contact  
 For any questions or collaborations, feel free to reach out:  
